@@ -39,7 +39,6 @@ class List extends React.Component {
   };
 
   onDrop = info => {
-    console.log(info);
     const dropKey = info.node.props.eventKey;
     const dragKey = info.dragNode.props.eventKey;
     const dropPos = info.node.props.pos.split("-");
