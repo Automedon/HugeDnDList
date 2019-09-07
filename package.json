@@ -2,17 +2,21 @@
   "name": "listdnd",
   "version": "0.1.0",
   "private": true,
+  "author": "Automedon",
   "dependencies": {
+    "antd": "^3.23.2",
     "react": "^16.9.0",
     "react-dom": "^16.9.0",
-    "react-scripts": "3.1.1"
+    "react-scripts": "3.1.1",
+    "reselect": "^4.0.0"
   },
   "scripts": {
     "start": "react-scripts start",
-    "build": "react-scripts build",
+    "build": "react-scripts build && move build docs",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
+  "homepage": "https://automedon.github.io/HugeDnDList/",
   "eslintConfig": {
     "extends": "react-app"
   },
