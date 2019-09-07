@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "351d0ab06cffe841f5bd6e7b14cef288",
+    "revision": "c2acb7d2578194d97ed4cb750de07112",
     "url": "/HugeDnDList/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/HugeDnDList/static/css/2.8c467cd4.chunk.css"
   },
   {
-    "revision": "46ebc5f843dd673cc495",
+    "revision": "dc81bf12c1c00d1a1f61",
     "url": "/HugeDnDList/static/css/main.34de6062.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/HugeDnDList/static/js/2.b62e18cd.chunk.js"
   },
   {
-    "revision": "46ebc5f843dd673cc495",
-    "url": "/HugeDnDList/static/js/main.22f4c4ff.chunk.js"
+    "revision": "dc81bf12c1c00d1a1f61",
+    "url": "/HugeDnDList/static/js/main.136670ae.chunk.js"
   },
   {
     "revision": "370dab507c0b49f81467",
